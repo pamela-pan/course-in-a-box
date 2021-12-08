@@ -1,9 +1,9 @@
 ---
-title: Software VS Self-Programmed Web Interfaces
+title: Software VS Web Interfaces
 published: true
 ---
 
-## Software VS Programmatic Web Interfaces
+## Software VS Web Interfaces
 Some of you might ask: what should I use for creating these visualizations?
 The answer is: it depends on your task and your audience.
 
