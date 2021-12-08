@@ -1,5 +1,5 @@
 ---
-title: What is Data Visualization?
+title: Definition
 ---
 
 ## What is Data Visualization?
