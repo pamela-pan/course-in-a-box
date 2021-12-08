@@ -1,3 +1,7 @@
+---
+title: From Data to Visualization
+---
+
 ## Data Visualization: An Essential Tool for Data Storytelling
 To understand the value of big data analytics, we must realize that, data doesn’t speak for itself. It is up to the people, often analysts from different fields, to tell the story behind the data.
 
