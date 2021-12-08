@@ -7,6 +7,7 @@ You will gain a basic understanding of data visualization in the upcoming bite-s
 - Usages: Common motivations for data visualization
 - Method: Software VS Web Interfaces
 - Charting Libraries: How to choose a library based on your needs?
+- Explore: Start exploring Plotly
 - Ethics: Bad examples of data visualizations
 
 Happy learning!
