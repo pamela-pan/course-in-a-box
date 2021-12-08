@@ -1,9 +1,9 @@
 ---
-title: Software VS Web Interfaces
+title: Method
 published: true
 ---
 
-## Software VS Web Interfaces
+## Software VS Programmatic Web Interfaces
 Some of you might ask: what should I use for creating these visualizations?
 The answer is: it depends on your task and your audience.
 
@@ -11,6 +11,8 @@ The answer is: it depends on your task and your audience.
 
 In company settings, software tools like Excel, Tableau, Power BI are widely used. They allow quick, efficient   communication of data insights, both between and within different functional departments, so the visualizations they produce would be more straightforward and informative than interactive.
 
-However, if you want to create graphs that are web-based for users-- which often is from the general public-- can interact with, you might want to choose the programmatic way. Compared to graphing softwares, self-programmed web interfaces often enable more customizations on interactions. 
+However, if you want to create graphs that are web-based for users -- which often is from the general public-- can interact with, you might want to choose the programmatic way. Compared to graphing softwares, self-programmed web interfaces often enable more customizations on interactions. 
 
 Audience from the general public often lack the background knowledge in the topic presented to them, so interactions can be designed to enhance their perception. 
+
+To learn more about the specific libraries available for various programmatic languages and visualization purposes, continue to the next submodule!
