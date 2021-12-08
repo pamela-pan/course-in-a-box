@@ -1,7 +1,7 @@
 ---
 title: Module Directory
 ---
-
+## Content Module Directory
 You will gain a basic understanding of data visualization in the upcoming bite-sized modules, including the following topics:
 - Definition of Data Visualization
 - Motivation for Data Visualizaion
