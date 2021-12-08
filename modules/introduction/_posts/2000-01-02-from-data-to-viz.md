@@ -19,10 +19,3 @@ Research centers also try to understand demographic data. Here is an age analysi
 ![demogaphic gif](https://user-images.githubusercontent.com/53935081/145136880-3ace5e7b-fcd0-4245-8514-f2d126735ea6.gif)
 
 In short, people choose to visualize data when they are trying to answer certain questions, make decisions, predict trends, etc.
-
-You will gain a basic understanding of data visualization in the upcoming bite-sized modules, including the following topics:
-- Definition of Data Visualization
-- Motivation for Data Visualizaion
-- When to use Software VS Web Interfaces
-- How to choose a Graphing Library
-- Ethics of Data Visualization
