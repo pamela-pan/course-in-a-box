@@ -14,8 +14,7 @@ Because it binds to many programming languages, Plotly is a good place to start 
    - [Bubble chart example](https://plotly.com/python/bubble-charts/)
 
 
-## Challenge! 
-### What graph would you choose to visualize this piece of Tokyo Olympics data?
+### Challenge: What graph would you choose to visualize this piece of Tokyo Olympics data?
 
 ![image](https://user-images.githubusercontent.com/53935081/145181768-8c814809-d111-4c2f-a58b-d13b435d96ed.png)
 1. Look at this [directory of chart types](https://datavizcatalogue.com/search/patterns.html) and choose a graph type;
