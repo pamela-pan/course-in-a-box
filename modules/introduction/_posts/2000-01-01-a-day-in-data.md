@@ -1,6 +1,8 @@
 ## How does our day look like in data?
 From posting on social media to using mobile payment in a store, we generate a massive amount of data every day.
 
+![image](https://user-images.githubusercontent.com/53935081/145155505-b3db7c44-94ca-419e-8c34-06242ec8e960.png)
+
 Back in 2013, analysts had predicted an exponential growth in data prediction.
 In 2018, 33 zettabytes (2 to the 70th power) of data was actually created, exceeding the predicted number.
 
