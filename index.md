@@ -15,7 +15,7 @@ published: true
   -   Methods
   -   Charting Libraries
   -   Explorations
-- More Workshops
-  -   Data Visualization with Plotly for JavaScript (React)
-  -   Data Visualization with Plotly for Python (Google Colab)
-  -   Data Dashhboarding with Plotly for JavaScript (Streamlit)
+- More Resources
+  -   Visual Vocabulary
+  -   State of Art
+  -   More Viz Workshops
