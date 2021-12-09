@@ -15,7 +15,7 @@ published: true
   -   Methods
   -   Charting Libraries
   -   Explorations
-- More Resources
+- [Resources](https://pamela-pan.github.io/course-in-a-box/modules/resources/visual-vocabulary/)
   -   Visual Vocabulary
   -   State of Art
-  -   More Viz Workshops
+  -   More Workshops in the Series
