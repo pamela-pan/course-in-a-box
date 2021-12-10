@@ -36,6 +36,12 @@ body {
     color: $gray;
   }
   
+  .outro {
+    font-size: $font-size-lg;
+    font-weight: $font-weight-bold;
+    color: $gray-darker;
+  }
+  
   h1, h2, h3, h4, h5, h6 {
     margin-top: $headings-margin-top;
   }
@@ -135,11 +141,6 @@ body {
     padding-bottom: $padding-sm;
   }
 
-  .caption {
-    small {
-      font-size: $font-size-sm;
-    }
-  }
 
   .minicaps {
     font-size: $font-size-sm;
