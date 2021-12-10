@@ -10,8 +10,9 @@ Back in 2013, analysts had predicted an exponential growth in data prediction.
 In 2018, 33 zettabytes (2 to the 70th power) of data was actually created, exceeding the predicted number.
 
 <p class='caption' align="center">
-  <img src="https://user-images.githubusercontent.com/53935081/144996937-596d7e47-4d90-4dd9-9fce-8188d71fbd6b.png">
+  <img src="https://user-images.githubusercontent.com/53935081/145543359-f0b42382-0ebf-466e-996e-97c2a05840e5.png">
   <br>
+  Source: <a href='https://www.idc.com/getdoc.jsp?containerId=IDC_P38353'>IDC Digital Universe 2013</a>
 </p>
 
 ## What is "Big Data" and how is it valuable?
@@ -24,8 +25,8 @@ Regardless which field you come from, you might have heard of the term "big data
 
 You might be wondering, what does this data tell us? In fact, big data analytics is extremely valuable across different fields, but how so?
 
-
 <p class='caption' align="center">
-  <img src="https://user-images.githubusercontent.com/53935081/144997433-f7bae4be-d6cc-4320-996e-cf7079221599.png">
+  <img src="https://user-images.githubusercontent.com/53935081/145543628-6b3f392d-ba84-4d12-92ae-ea79256059e3.png">
   <br>
+  Source: <a href='https://www.dasca.org/world-of-big-data/article/big-data-value-potential'>Data Science Council of America (DASCA)</a>
 </p>
