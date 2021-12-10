@@ -9,7 +9,10 @@ It is helpful to note that data visualization on web interfaces initially starte
 
 Below is an overview of the commonly used charting libraries outlining the languages they are available in as well as their pros and cons.
 
-![image](https://user-images.githubusercontent.com/53935081/145172586-ce12fb27-9f10-4581-acf5-57d442a3716f.png)
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145172586-ce12fb27-9f10-4581-acf5-57d442a3716f.png">
+  Source: <a href='https://docs.google.com/spreadsheets/d/1XRSdNGCteZG7TtLvBydivCGB8VX42iOCtW24c3HbDw0/edit?usp=sharing'>Comparing Open Source Libraries for Data Visualization</a>, Data Services @ NYU Shanghai
+</p>
 
 ### Visualize fo Scientific Reporting
 
@@ -17,9 +20,10 @@ These libraries lie on a spectrum of visualization purposes. The leftmost end re
 
 **Example Graph created by Matplotlib**
 
-![image](https://user-images.githubusercontent.com/53935081/145172950-048926aa-465c-4cfe-b35d-786c8517cff5.png)
-<p align="center">
-  <a href="https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py">Matplotlib Documentation</a>
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145172950-048926aa-465c-4cfe-b35d-786c8517cff5.png">
+  <br>
+  Source: <a href='https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py'>Matplotlib Documentation</a>
 </p>
 
 ### Visualize fo Creative Storytelling
@@ -28,14 +32,17 @@ On the other hand, the rightmost end represents the purpose to do **creative dat
 
 **Example graph created by Plotly**
 
-![image](https://user-images.githubusercontent.com/53935081/145175978-f806fa1b-7505-4770-862e-328371e8d1df.png)
-<p align="center">
-  <a href="https://plotly.com/python/bar-charts/">Plotly Documentation</a>
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145175978-f806fa1b-7505-4770-862e-328371e8d1df.png">
+  <br>
+  Source: <a href="https://plotly.com/python/bar-charts/">Plotly Documentation</a>
 </p>
+
   
 **Example graph created by D3.js**
 
-![image](https://user-images.githubusercontent.com/53935081/145175340-cfccbb96-4ed6-4c63-a711-20102716c80e.png)
-<p align="center">
-  <a href = "https://observablehq.com/@tezzutezzu/world-history-timeline">World History Timeline</a> by Danilo Di Cuia
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145175340-cfccbb96-4ed6-4c63-a711-20102716c80e.png">
+  <br>
+  Source: <a href = "https://observablehq.com/@tezzutezzu/world-history-timeline">World History Timeline</a> by Danilo Di Cuia
 </p>
