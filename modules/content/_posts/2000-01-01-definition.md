@@ -19,7 +19,7 @@ But when we plot them onto a graph (right), the trends become a lot more clear. 
 
 
 ### 2. Computer-generated graphs to amplify cognition
-Later, when computers and the internet become more prevalent, data visualization became defined as “the use of **computer-generated**, **interactive**, **visual representations** with a goal to amplify cognition” (Cad, Mackinlay & Shneiderman 1999).
+Later, when computers and the internet become more prevalent, data visualization became defined as “the use of **computer-generated**, **interactive**, **visual representations** with a goal to amplify cognition” (Card, Mackinlay & Shneiderman 1999).
 
 <p class='caption' align="center">
   <img src="https://user-images.githubusercontent.com/53935081/145155119-6a0c0ae5-fb86-49aa-aa57-d0cf4f9f85a7.gif">
