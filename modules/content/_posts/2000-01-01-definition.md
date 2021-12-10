@@ -9,8 +9,9 @@ Back in the 1980s, data visualization has been commonly defined as the "transfor
 
 What does that mean in practice?
 
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/53935081/145154235-de58bbfb-d8e5-413b-855c-ff86fd6e618e.png">
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145154235-de58bbfb-d8e5-413b-855c-ff86fd6e618e.png">
+  Source: <a href='https://courses.cs.washington.edu/courses/cse512/21sp/lectures/CSE512-ValueOfVisualization.pdf'>Value of Visualization</a>, Jeffrey Heer
 </p>
 
 So when we look at this table of numbers (left), it is hard for us to generate ANY hypothesis or conclusions at all by just looking at it. To get any insights, we would need to manually calculate the statistics.
@@ -20,8 +21,10 @@ But when we plot them onto a graph (right), the trends become a lot more clear. 
 ### 2. Computer-generated graphs to amplify cognition
 Later, when computers and the internet become more prevalent, data visualization became defined as “the use of **computer-generated**, **interactive**, **visual representations** with a goal to amplify cognition” (Cad, Mackinlay & Shneiderman 1999).
 
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/53935081/145155119-6a0c0ae5-fb86-49aa-aa57-d0cf4f9f85a7.gif">
+<p class='caption' align="center">
+  <img src="https://user-images.githubusercontent.com/53935081/145155119-6a0c0ae5-fb86-49aa-aa57-d0cf4f9f85a7.gif">
+  </br>
+  Source: Giphy
 </p>
 
 And that brings us to our main topic of today, which is **data visualization on web interfaces**.
