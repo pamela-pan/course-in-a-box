@@ -23,8 +23,6 @@ Later, when computers and the internet become more prevalent, data visualization
 
 <p class='caption' align="center">
   <img src="https://user-images.githubusercontent.com/53935081/145155119-6a0c0ae5-fb86-49aa-aa57-d0cf4f9f85a7.gif">
-  <br>
-  Source: Giphy
 </p>
 
 And that brings us to our main topic of today, which is **data visualization on web interfaces**.
