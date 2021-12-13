@@ -36,9 +36,9 @@ Cole Nussbaumer Knaflic, Storytelling with Data: A Data Visualization Guide for 
 Dona M. Wong, The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures
 
 ## Data Journalism Sites & Blogs
-[Data Visualizations | The Guardian](https://www.theguardian.com/technology/data-visualisation)
+[Data Visualizations, The Guardian](https://www.theguardian.com/technology/data-visualisation)
 
-[Data | The Guardian](https://www.theguardian.com/data)
+[Data, The Guardian](https://www.theguardian.com/data)
 
 [ProPublica News Apps](https://www.propublica.org/newsapps/)
 
