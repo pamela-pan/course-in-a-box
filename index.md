@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-*Introduction of Data Visualization on Web Interfaces* is the first workshop in the Data Visualization series, structured by Data Services @ NYU Shanghai Library. It gives you an overview of what is data visualization, why do we use it, and how we choose a method to make it.
+*Introduction of Data Visualization on Web Interfaces* is the first workshop in the Data Visualization series designed by Data Services @ NYU Shanghai Library. You will gain an introductory understanding of what data visualization is, why and how we create it, and ethical issues revolving data storytelling.
 
 ### Directory
 - [Introduction](https://pamela-pan.github.io/course-in-a-box/modules/introduction/a-day-in-data/)
@@ -18,4 +18,5 @@ published: true
 - [Resources](https://pamela-pan.github.io/course-in-a-box/modules/resources/visual-vocabulary/)
   -   Visual Vocabulary
   -   State of Art
-  -   More Workshops in the Series
+  -   Books & Blogs
+  -   More Workshops
