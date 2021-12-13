@@ -1,4 +1,4 @@
-## The Classical
+## The Classical Perspectives
 
 Edward R. Tufte, The Visual Display of Quantitative Information
 
