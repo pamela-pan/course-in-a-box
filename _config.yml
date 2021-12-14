@@ -29,7 +29,7 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-jumbotron_color: "#FCD984"
+jumbotron_color: "radial-gradient(circle, rgba(252,255,191,1) 0%, rgba(230,200,236,1) 78%)";
 jumbotron_icon: "img/box-icon.png"
 
 theme: jekyll-theme-slate
